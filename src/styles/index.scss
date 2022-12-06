@@ -1,0 +1,9 @@
+@import "reset.scss";
+@import "_variables.scss";
+
+body {
+  background-color: $dark-cyan;
+  position: relative;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
