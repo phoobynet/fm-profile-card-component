@@ -27,7 +27,7 @@ $bg-image-size-desktop: 61.13rem;
 
   @media (min-width: 1440px) {
     &::before {
-      background-position: top -30rem left -15rem, bottom -38.5rem right -15rem;
+      background-position: top -30rem left -15rem, bottom -38.5rem right -8rem;
       background-size: $bg-image-size-desktop, $bg-image-size-desktop;
     }
   }
